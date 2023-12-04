@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  background: url("https://placehold.co/100x100/FFFFFF/EFEFEF/png?text=49317");
+}
+
+body {
+    font-family: 'Times New Roman', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  :root {
+    --primary-color: #ddb66e;
+    --secondary-color: #c95e33;
+    --accent-color: #e8e7fa;
+    --shadow-color: #E8E8E8;
+  }
+  
